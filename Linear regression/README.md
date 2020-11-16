@@ -2,4 +2,4 @@
 
 Все необходимые инструкции, в том числе и по критериям оценки работ, указаны в приложенном файле peer_review_linreg_height_weight.ipynb.
 
-P.S. Если не открывает .ipynb то юзаем nbviewer.jupyter.org
+P.S. Если не открывает .ipynb то юзаем https://nbviewer.jupyter.org/
