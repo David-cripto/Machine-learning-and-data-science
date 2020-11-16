@@ -1,5 +1,5 @@
-Задания из первого курса из специализации на Coursera:
-www.coursera.org/learn/mathematics-and-python/home/welcome
+Специализация:
+Машинное обучение и анализ данных
 
 P.S. Если не открывает .ipynb то юзаем https://nbviewer.jupyter.org/
 
